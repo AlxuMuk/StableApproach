@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "https://192.168.88.30",
+      "host": "http://192.168.88.30",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
