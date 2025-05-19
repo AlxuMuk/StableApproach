@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "https://142.250.226.109.ip.orionnet.ru",
+      "host": "142.250.226.109.ip.orionnet.ru",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
